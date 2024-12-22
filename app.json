@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "practical",
-    "slug": "practical",
+    "name": "Dioca Store",
+    "slug": "Dioca Store",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/store.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/store.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,7 +22,10 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/store.png"
+    },
+    "plugins": [
+      "expo-sqlite"
+    ]
   }
 }
