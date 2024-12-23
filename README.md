@@ -1,3 +1,3 @@
 # mopbprog-finals
-# Store It!
+## Store It!
 CRUD application for Mobile Programming Finals
